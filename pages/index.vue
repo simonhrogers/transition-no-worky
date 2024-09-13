@@ -60,3 +60,11 @@
     <NuxtLink to="/about">About</NuxtLink>
   </div>
 </template>
+
+<script setup>
+
+definePageMeta({
+  layout: 'home'
+})
+
+</script>
