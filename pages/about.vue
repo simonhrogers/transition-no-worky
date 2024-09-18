@@ -46,3 +46,12 @@ definePageMeta({
 })
 
 </script>
+
+<style scoped>
+
+a {
+  font-size: 2.5em;
+  color: magenta
+}
+
+</style>
