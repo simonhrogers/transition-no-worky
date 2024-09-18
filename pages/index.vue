@@ -58,6 +58,7 @@
     <p>Ice cream tiger (i-ee-i-ee-i-ee-i-ee-i)</p>
     <p>(I-ee-i-ee-i-ee-i-ee-i)</p>
     <NuxtLink to="/about">About</NuxtLink>
+    <img src="/tiger.jpg" class="lazyload" alt="The Icecream Tiger" />
   </div>
 </template>
 
@@ -68,3 +69,15 @@ definePageMeta({
 })
 
 </script>
+
+<style scoped>
+
+img {
+  margin-top: 1em;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+</style>

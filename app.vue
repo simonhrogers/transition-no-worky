@@ -1,9 +1,13 @@
 <template>
   <div>
     <h1>Ice Cream Tiger App</h1>
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
+    <div class="layout-wrapper">
+      <NuxtLayout>
+        <div class="page-wrapper">
+          <NuxtPage />
+        </div>
+      </NuxtLayout>
+    </div>
   </div>
 </template>
 
