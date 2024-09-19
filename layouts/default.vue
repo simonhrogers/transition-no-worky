@@ -1,6 +1,6 @@
 <template>
 	<div class="container">
-		<GlobalHeader />
+		<Header />
     <div class="slot-wrapper">
       <slot />
     </div>

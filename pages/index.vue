@@ -88,7 +88,7 @@
     <p dir="auto"><em>No response</em></p>
     <h3 dir="auto">Logs</h3>
     <p dir="auto"><em>No response</em></p>
-    <!-- <img src="/tiger.jpg" class="lazyload" alt="The Icecream Tiger" /> -->
+    <img src="/tiger.jpg" class="lazyload" alt="The Icecream Tiger" />
   </div>
 </template>
 
